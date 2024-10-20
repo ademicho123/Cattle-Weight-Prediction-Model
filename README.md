@@ -4,8 +4,6 @@ This project aims to build a deep learning model to predict cattle weight based 
 
 ## Project Structure
 
-Cattle-Weight-Prediction-Model/ ├── dataset/ │ ├── Pixel/ │ │ ├── B2/ │ │ ├── B3/ │ │ └── B4/ │ └── Vector/ │ ├── B2/ │ ├── B3/ │ └── B4/ ├── cattle_weight_model.ipynb └── README.md
-
 ### Dataset Folder Structure
 
 - `Pixel/`: Contains subdirectories for datasets B2, B3, and B4 with images of the cattle.
